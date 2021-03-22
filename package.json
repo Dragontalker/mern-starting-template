@@ -1,0 +1,20 @@
+{
+  "name": "mern-starting-template",
+  "version": "1.0.0",
+  "description": "A starting template for MERN application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragontalker/mern-starting-template.git"
+  },
+  "keywords": [],
+  "author": "Richard Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dragontalker/mern-starting-template/issues"
+  },
+  "homepage": "https://github.com/Dragontalker/mern-starting-template#readme"
+}
