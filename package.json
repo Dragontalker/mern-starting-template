@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Dragontalker/mern-starting-template/issues"
   },
-  "homepage": "https://github.com/Dragontalker/mern-starting-template#readme"
+  "homepage": "https://github.com/Dragontalker/mern-starting-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
